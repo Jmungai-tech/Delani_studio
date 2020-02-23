@@ -62,3 +62,50 @@ h6, h4{
   #social img{
     margin-left: 20px;
   }
+  #services1{
+    margin-left: 40px; 
+    padding-top: 10px; 
+    padding-left: 90px;
+    height: 176px;
+    width: 350px;
+  } 
+  
+  #services1 #icon1{
+    margin-left: 50px;
+    padding-top: 40px; 
+  }
+  
+  #icon2{
+    margin-left: 40px; 
+    padding-top: 10px; 
+    padding-left: 90px;
+    height: 176px;
+    width: 338px;
+    padding-left: 55px; 
+    padding-right: 55px;
+    display: none;
+  }
+  
+  #services2{
+    margin: 40px; 
+    padding-top: 10px; 
+    padding-left: 90px;
+  }
+  
+  #icon3{
+    display: none;
+    padding-left: 55px; 
+    padding-right: 55px;
+  }
+  
+  #services3{
+    margin: 40px; 
+    padding-top: 10px; 
+    padding-left: 90px;
+  }
+  
+  #icon4{
+    display: none; 
+    padding-left: 55px; 
+    padding-right: 55px;
+  }
